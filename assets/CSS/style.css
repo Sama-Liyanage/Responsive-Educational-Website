@@ -94,6 +94,15 @@ nav ul li a {
     color: #fff;
 }
 
+/*Menu icon in navigation bar*/
+#menuBtn{
+    width: 50px;
+    position: fixed;
+    right: 65px;
+    top: 35px;
+    z-index: 2;
+    cursor: pointer;
+}
 
 
 

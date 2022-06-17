@@ -11,4 +11,8 @@ menuBtn.onclick=function (){
     }
 }
 
-var scroll = new SmoothScroll('a[href*="#"]');
+// All animations will take exactly 1000ms
+var scroll = new SmoothScroll('a[href*="#"]',{
+    speed:1000,
+    speedAsDuration:true
+});

@@ -10,3 +10,5 @@ menuBtn.onclick=function (){
         sideNav.style.right="-250px";
     }
 }
+
+var scroll = new SmoothScroll('a[href*="#"]');

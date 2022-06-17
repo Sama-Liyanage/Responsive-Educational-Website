@@ -211,3 +211,17 @@ nav ul li a {
 .course-text button{
     margin: 30px 0;
 }
+
+
+/*Offer Section*/
+
+#offer{
+    padding: 100px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#offer button{
+    margin: 30px 0;
+}
